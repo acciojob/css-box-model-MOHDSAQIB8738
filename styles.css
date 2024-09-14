@@ -2,7 +2,7 @@
 /* Your CSS Code here. */
 
 div{
-	border:15px solid black;
+	border:15px solid rgb(0 0 255);
 	background-color:lightblue;
 	width:300px;
 	padding:50px;
